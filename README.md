@@ -21,7 +21,7 @@ This repository documents my weekly progress, insights, and the key concepts I'v
 - **Projects**: Check out my [Projects](Projects) to see the practical applications of my learnings.
 
 ## Weekly Learning Insights
-<h1>**Activity**: Enrolled in the "DevOps Zero To Hero (Pro Live) course"- Batch 7 on the TrainWithShubham platform.</h1>
+<h1> Activity: Enrolled in the "DevOps Zero To Hero (Pro Live) course"- Batch 7 on the TrainWithShubham platform.</h1>
 
 **Key Learnings**:
 - Familiarized with the course structure and objectives.
