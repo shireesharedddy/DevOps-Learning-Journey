@@ -17,7 +17,7 @@ I'm Shireesha, a tech enthusiast with a Master’s in Computer Applications spec
 ## Repository Overview
 This repository documents my weekly progress, insights, and the key concepts I've learned.
 
-- **Weekly Logs**: Explore my [Weekly Logs](Weekly-Logs) to see detailed notes and reflections on each week’s learning.
+- **Weekly Logs**: Explore my [Weekly Logs](https://github.com/shireesharedddy/DevOps-Learning-Journey/blob/main/List-Of-Topics.md) to see detailed notes and reflections on each week’s learning.
 - **Projects**: Check out my [Projects](Projects) to see the practical applications of my learnings.
 
 ## Weekly Learning Insights
