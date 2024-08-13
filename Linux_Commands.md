@@ -49,7 +49,7 @@ This document provides a list of important Linux commands that are essential for
 2. **`chown`**: Changes file or directory ownership.
    - Example: `chown user:group file.txt`
    
-3. **`chgrp`****: Changes the group ownership of a file or directory.
+3. **`chgrp`**: Changes the group ownership of a file or directory.
    - Example: `chgrp groupname file.txt`
 
 ## **File Viewing and Editing**
