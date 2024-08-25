@@ -16,10 +16,10 @@ I'm Shireesha, a tech enthusiast with a Master’s in Computer Applications spec
 ## Repository Overview
 This repository documents my weekly progress, insights, and the key concepts I've learned.
 
-- **Weekly Logs**: Explore my [Weekly Logs](https://github.com/shireesharedddy/DevOps-Learning-Journey/blob/main/List-Of-Topics.md) to see detailed notes and reflections on each week’s learning.
+- **Study Logs**: Explore my [Study Logs](https://github.com/shireesharedddy/DevOps-Learning-Journey/blob/main/List-Of-Topics.md) to see detailed notes and reflections on each topic i have learned.
 - **Projects**: Check out my [Projects](https://github.com/shireesharedddy) to see the practical applications of my learnings.
 
-## Weekly Learning Insights
+## Learning Insights
 <h1> Activity: Enrolled in the "DevOps Zero To Hero (Pro Live) course"- Batch 7 on the TrainWithShubham platform.</h1>
 
 **Key Learnings**:
