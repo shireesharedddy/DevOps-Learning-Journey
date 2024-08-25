@@ -13,7 +13,7 @@ This document outlines the key topics I will be studying as part of my DevOps le
 7. Terraform
 8. Ansible
 
-## Week - 01 - insights
+## Log- 01 - insights
 ## 1. Linux for DevOps
 
 **Overview**:  
@@ -30,5 +30,5 @@ I started my DevOps journey with Linux, as it forms the backbone for many DevOps
 - **Initial Hurdles**: At the start, understanding the syntax of Linux commands was tricky. I often found myself making mistakes, but with consistent practice, my confidence grew.
 - **Learning through Practice**: I realized that hands-on practice is essential. I spent time working in a virtual Linux environment, which allowed me to experiment without fear of breaking anything critical. This practical approach has been incredibly beneficial in solidifying my understanding.
 
-Overall, my first week was all about getting comfortable with Linux. I faced challenges, especially with command syntax and understanding permissions, but consistent practice and hands-on exercises helped me overcome them. I’m excited to build on this foundation as I move forward in my DevOps journey.
+Overall, my first log is all about getting comfortable with Linux. I faced challenges, especially with command syntax and understanding permissions, but consistent practice and hands-on exercises helped me overcome them. I’m excited to build on this foundation as I move forward in my DevOps journey.
 
