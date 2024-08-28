@@ -9,3 +9,9 @@ This project includes shell scripts for automating various system administration
 - **system_monitoring.sh**: Monitors system resources.
 - **log_management.sh**: Manages system logs.
 - **automated_updates.sh**: Handles system updates.
+
+## Usage
+Instructions on how to use each script.
+
+## Prerequisites
+Any prerequisites needed to run the scripts.
