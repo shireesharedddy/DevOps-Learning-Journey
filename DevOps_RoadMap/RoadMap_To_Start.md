@@ -161,4 +161,4 @@ Starting a journey in DevOps can seem overwhelming, but with the right roadmap, 
 
 Remember, DevOps is not just about tools or processes; it’s about a mindset of collaboration, continuous improvement, and automation. Embrace the culture, stay curious, and keep building!
 
-*********************Good luck on your DevOps journey!****************************
+Good luck on your DevOps journey!
